@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mallweb:war exploded">
+    <output-path>$PROJECT_DIR$/mallweb/target/mallweb</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mallweb" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/mallweb/target/mallweb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mallweb/web/Web" />
+      <element id="artifact" artifact-name="custommgr:war exploded" />
+      <element id="artifact" artifact-name="goodsweb:war exploded" />
+    </root>
+  </artifact>
+</component>

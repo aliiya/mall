@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custommgr/custommgr.iml" filepath="$PROJECT_DIR$/custommgr/custommgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsmgr/goodsmgr.iml" filepath="$PROJECT_DIR$/goodsmgr/goodsmgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsweb/goodsweb.iml" filepath="$PROJECT_DIR$/goodsweb/goodsweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall.iml" filepath="$PROJECT_DIR$/mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallweb/mallweb.iml" filepath="$PROJECT_DIR$/mallweb/mallweb.iml" />
+    </modules>
+  </component>
+</project>
